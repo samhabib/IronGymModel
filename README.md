@@ -1,2 +1,2 @@
 # IronGymModel
-Skilz Model for the IronBoundGym project
+Skillz Model for the IronBoundGym project
